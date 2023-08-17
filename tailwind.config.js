@@ -3,7 +3,7 @@ module.exports = {
   plugins: [
     require('flowbite/plugin')
   ],
-  content: ["./src/**/*.{html,js}", "index.html"],
+  content: ["./src/**/*.{html,js}", "index.html", "budaya.html"],
   theme: {
     extend: {
       fontFamily: {
